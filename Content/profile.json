@@ -14,18 +14,18 @@
   "GitHub": "fatima230m.github.io"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I am currently pursuing a degree at Seattle Pacific University while building hands-on experience through engineering and technical projects. My work has focused on circuit design, simulation, programming, and problem solving, with projects involving MATLAB, LTspice, and software development. Through coursework and practical experience, I have developed a strong foundation in analysis, design, and troubleshooting, and I continue to build skills that prepare me for roles in engineering and technology.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Major": "Electrical Engineering",
+  "Graduation": "June 2028",
+  "EducationText": "My education at Seattle Pacific University has given me experience in circuit analysis, electronics, programming, and engineering design. I have applied these concepts in projects involving active filters, simulation tools, and technical problem solving, which have strengthened both my theoretical understanding and practical skills.",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "Resume_EE_Fatimah_Mohammed"  
-},
+  "Role": "Student / Engineering Student",
+  "EmploymentText": "In addition to my coursework, I have worked on technical assignments and design projects that required careful analysis, documentation, and simulation. These experiences have strengthened my ability to solve engineering problems, communicate technical results, and work through projects from initial calculations to final verification.",
+  "Skills": ["MATLAB", "LTspice", "Circuit Design", "C++", "JavaScript", "Node.js", "HTML", "CSS"],
+  "SkillsText": "My technical skills include circuit design and simulation, MATLAB analysis, LTspice modeling, and programming in C++, JavaScript, Node.js, HTML, and CSS. I am especially interested in combining hardware and software skills to solve practical engineering problems and create well-documented technical work.",
+  "Resume": "Resume_EE_Fatimah_Mohammed"
+}
 "Project1": {
   "Title": "4th-Order Sallen-Key Bandpass Filter Design",
   "Desc": "Designed and analyzed a 4th-order active bandpass filter centered at 25 kHz using two cascaded Sallen-Key stages. Verified the transfer function in MATLAB and compared the simulated frequency response in LTspice at the pass frequency and stop frequencies. The project includes design calculations, Bode plots, and circuit schematics.<br><br>Tools used: MATLAB, LTspice, and hand calculations.",

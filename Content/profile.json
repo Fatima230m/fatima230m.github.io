@@ -1,38 +1,38 @@
 {
-"About": {
-  "Name": "Fatimah Mohammed",
-  "Currently": "Electrical Engineering Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "My-logo.webp",
-  "AboutText": "Hi, I am Fatimah Mohammed. I am a passionate Electrical Engineering student with a keen interest in PCB and coding. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on Electronics.<br><br>I enjoy tackling challenging circuit projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
-},
-"Contact": {
-  "EMail": "Mohammedf@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "fatima230m.github.io"
-},
-"Experience": {
-  "ExperienceText": "I am currently pursuing a degree at Seattle Pacific University while building hands-on experience through engineering and technical projects. My work has focused on circuit design, simulation, programming, and problem solving, with projects involving MATLAB, LTspice, and software development. Through coursework and practical experience, I have developed a strong foundation in analysis, design, and troubleshooting, and I continue to build skills that prepare me for roles in engineering and technology.",
-  "School": "Seattle Pacific University",
-  "Major": "Electrical Engineering",
-  "Graduation": "June 2028",
-  "EducationText": "My education at Seattle Pacific University has given me experience in circuit analysis, electronics, programming, and engineering design. I have applied these concepts in projects involving active filters, simulation tools, and technical problem solving, which have strengthened both my theoretical understanding and practical skills.",
-  "Employment": "Seattle Pacific University",
-  "Role": "Student / Engineering Student",
-  "EmploymentText": "In addition to my coursework, I have worked on technical assignments and design projects that required careful analysis, documentation, and simulation. These experiences have strengthened my ability to solve engineering problems, communicate technical results, and work through projects from initial calculations to final verification.",
-  "Skills": ["MATLAB", "LTspice", "Circuit Design", "C++", "JavaScript", "Node.js", "HTML", "CSS"],
-  "SkillsText": "My technical skills include circuit design and simulation, MATLAB analysis, LTspice modeling, and programming in C++, JavaScript, Node.js, HTML, and CSS. I am especially interested in combining hardware and software skills to solve practical engineering problems and create well-documented technical work.",
-  "Resume": "Resume_EE_Fatimah_Mohammed"
-}
-"Project1": {
-  "Title": "4th-Order Sallen-Key Bandpass Filter Design",
-  "Desc": "Designed and analyzed a 4th-order active bandpass filter centered at 25 kHz using two cascaded Sallen-Key stages. Verified the transfer function in MATLAB and compared the simulated frequency response in LTspice at the pass frequency and stop frequencies. The project includes design calculations, Bode plots, and circuit schematics.<br><br>Tools used: MATLAB, LTspice, and hand calculations.",
-  "GitHubRepo": "https://github.com",
-  "MainImage": "Project1_Main.png",
-  "DetailImages": ["Project1_Detail1.png", "Project1_Detail2.png", "Project1_Detail3.png"]
-}
+  "About": {
+    "Name": "Fatimah Mohammed",
+    "Currently": "Electrical Engineering Student",
+    "Headshot": "student-portrait.png",
+    "Thumbnail": "My-logo.webp",
+    "AboutText": "Hi, I am Fatimah Mohammed. I am an Electrical Engineering student at Seattle Pacific University with interests in circuit design, PCB development, MATLAB, LTspice, and programming. I enjoy building hands-on engineering projects and combining hardware with technical problem-solving."
+  },
+  "Contact": {
+    "EMail": "Mohammedf@spu.edu",
+    "Phone": "(206) 555-5555",
+    "Portfolio": "https://fatima230m.github.io/",
+    "LinkedIn": "https://www.linkedin.com/",
+    "GitHub": "https://github.com/fatima230m"
+  },
+  "Experience": {
+    "ExperienceText": "I am currently pursuing Electrical Engineering at Seattle Pacific University while building experience through circuit analysis, simulation, and design projects. My work has included active filter design, MATLAB analysis, LTspice simulation, and technical documentation.",
+    "School": "Seattle Pacific University",
+    "Major": "Electrical Engineering",
+    "Graduation": "June 2028",
+    "EducationText": "My education at Seattle Pacific University has given me experience in electronics, circuit analysis, engineering design, and programming. Through labs and projects, I have developed stronger skills in both theoretical and hands-on problem solving.",
+    "Employment": "Seattle Pacific University",
+    "Role": "Electrical Engineering Student",
+    "EmploymentText": "In addition to coursework, I have worked on technical assignments and engineering projects involving circuit design, simulation, troubleshooting, and report writing.",
+    "Skills": ["MATLAB", "LTspice", "Circuit Design", "C++", "JavaScript", "Node.js", "HTML", "CSS"],
+    "SkillsText": "My technical skills include circuit design and simulation, MATLAB analysis, LTspice modeling, and programming in C++, JavaScript, Node.js, HTML, and CSS.",
+    "Resume": "Resume_EE_Fatimah_Mohammed.pdf"
+  },
+  "Project1": {
+    "Title": "4th-Order Sallen-Key Bandpass Filter Design",
+    "Desc": "Designed and analyzed a 4th-order active bandpass filter centered at 25 kHz using two cascaded Sallen-Key stages. Verified transfer function behavior in MATLAB and evaluated gain at the desired pass frequency and rejected frequencies using Bode plots and simulation screenshots.<br><br>This project demonstrates active filter design, frequency response analysis, and practical circuit implementation.",
+    "GitHubRepo": "https://github.com/fatima230m",
+    "MainImage": "Project1_Main.png",
+    "DetailImages": ["Project1_Detail1.png", "Project1_Detail2.png", "Project1_Detail3.png"]
+  }
   "Project2": {
     "Title": "Interesting Project 2",
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",

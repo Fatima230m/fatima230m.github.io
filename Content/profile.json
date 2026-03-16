@@ -27,12 +27,12 @@
   "Resume": "Resume_EE_Fatimah_Mohammed"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
-  },
+  "Title": "4th-Order Sallen-Key Bandpass Filter Design",
+  "Desc": "Designed and analyzed a 4th-order active bandpass filter centered at 25 kHz using two cascaded Sallen-Key stages. Verified the transfer function in MATLAB and compared the simulated frequency response in LTspice at the pass frequency and stop frequencies. The project includes design calculations, Bode plots, and circuit schematics.<br><br>Tools used: MATLAB, LTspice, and hand calculations.",
+  "GitHubRepo": "https://github.com",
+  "MainImage": "Project1_Main.png",
+  "DetailImages": ["Project1_Detail1.png", "Project1_Detail2.png", "Project1_Detail3.png"]
+}
   "Project2": {
     "Title": "Interesting Project 2",
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",

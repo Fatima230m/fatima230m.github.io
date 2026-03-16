@@ -3,7 +3,7 @@
     "Name": "Fatimah Mohammed",
     "Currently": "Electrical Engineering Student",
     "Headshot": "student-portrait.png",
-    "Thumbnail": "My-logo.webp",
+    "Thumbnail": "student-logo.webp",
     "AboutText": "Hi, I am Fatimah Mohammed. I am an Electrical Engineering student at Seattle Pacific University with interests in circuit design, PCB development, MATLAB, LTspice, and programming. I enjoy building hands-on engineering projects and combining hardware with technical problem-solving."
   },
   "Contact": {
@@ -24,21 +24,21 @@
     "EmploymentText": "In addition to coursework, I have worked on technical assignments and engineering projects involving circuit design, simulation, troubleshooting, and report writing.",
     "Skills": ["MATLAB", "LTspice", "Circuit Design", "C++", "JavaScript", "Node.js", "HTML", "CSS"],
     "SkillsText": "My technical skills include circuit design and simulation, MATLAB analysis, LTspice modeling, and programming in C++, JavaScript, Node.js, HTML, and CSS.",
-    "Resume": "Resume_EE_Fatimah_Mohammed.pdf"
+    "Resume": "student-resume.pdf"
   },
   "Project1": {
     "Title": "4th-Order Sallen-Key Bandpass Filter Design",
     "Desc": "Designed and analyzed a 4th-order active bandpass filter centered at 25 kHz using two cascaded Sallen-Key stages. Verified transfer function behavior in MATLAB and evaluated gain at the desired pass frequency and rejected frequencies using Bode plots and simulation screenshots.<br><br>This project demonstrates active filter design, frequency response analysis, and practical circuit implementation.",
     "GitHubRepo": "https://github.com/fatima230m",
-    "MainImage": "Project1_Main.png",
-    "DetailImages": ["Project1_Detail1.png", "Project1_Detail2.png", "Project1_Detail3.png"]
-  }
+    "MainImage": "P1Main.png",
+    "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
+  },
   "Project2": {
     "Title": "Interesting Project 2",
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "DetailImages": ["P2Detail1.png", "P2Detail2.png", "P2Detail3.png", "P2Detail4.png"]
   },
   "Project3": {
     "Title": "Interesting Project 3",
@@ -51,7 +51,7 @@
     "Title": "",
     "Desc": "",
     "GitHubRepo": "",
-    "MainImage": "",
+    "MainImage": "P4Main.png",
     "DetailImages": []
   }
 }

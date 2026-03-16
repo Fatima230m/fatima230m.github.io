@@ -1,66 +1,82 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Web Page</title>
-    <link rel="stylesheet" href="./Styles/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fatimah Mohammed Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 40px;
+      background: #f7f7f7;
+      color: #222;
+    }
+    .box {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+    img {
+      max-width: 250px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+    }
+    h1, h2 {
+      margin-top: 0;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    .project-img {
+      max-width: 100%;
+      margin: 10px 0;
+      border-radius: 10px;
+    }
+  </style>
 </head>
 <body>
-    <div>
-        <nav id="menu">
-            <div>
-                <div class="self-photo">
-                    <a href="index.html">
-                        <img id="pfThumbnail" src="" alt="Return to main">
-                    </a>
-                </div>
-                <ul class="menu-list">
-                    <a href="index.html">
-                        <li>About</li>
-                    </a>
-                    <a href="projects.html">
-                        <li>Projects</li>
-                    </a>
-                    <a href="experience.html">
-                        <li>Experience</li>
-                    </a>
-                </ul>
-            </div>
-            <div class="icons">
-                <a id="pfLinkedIn" href="" target="_blank" rel="noopener noreferrer">
-                    <img src="./Icons/In-White-40@2x.png">
-                </a>
-                <a id="pfGitHub" href="" target="_blank" rel="noopener noreferrer">
-                    <img src="./Icons/github-mark-white.png" alt="">
-                </a>
-            </div>
-        </nav>
-    </div>
-    <div class="main-section">
-        <div class="about-header">
-            <div class="about-me-image">
-                <img id="pfHeadshot" src="" alt="Photo">
-            </div>
-            <div>
-                <h1 id="pfAboutName"></h1>
-                <p id="pfAboutTitle"></p>
-            </div>
-        </div>
-        <div class="about-section">
-            <div class="about-description">
-                <h2>About Me</h2>
-                <p id="pfAboutDesc"></p>
-            </div>
-        </div>
-        <div class="about-section">
-            <div class="contact-me">
-                <h2>Contact Me</h2>
-                <p><a id="pfEmail" href="mailto:">EMail</a></p>
-                <p id="elPhone"><a id="pfPhone" href="tel:"></a></p>
-            </div>
-        </div>
-    </div>
-    <script type="module" src="./Scripts/GetAbout.js"></script>
+  <div class="box">
+    <img src="Content/student-portrait.png" alt="Portrait">
+    <h1>Fatimah Mohammed</h1>
+    <p><strong>Electrical Engineering Student</strong></p>
+
+    <h2>About Me</h2>
+    <p>
+      Hi, I am Fatimah Mohammed. I am an Electrical Engineering student at Seattle Pacific University
+      with interests in circuit design, PCB development, MATLAB, LTspice, and programming.
+      I enjoy building hands-on engineering projects and combining hardware with technical problem-solving.
+    </p>
+
+    <h2>Contact</h2>
+    <p>Email: Mohammedf@spu.edu</p>
+    <p>Portfolio: <a href="https://fatima230m.github.io/">fatima230m.github.io</a></p>
+    <p>GitHub: <a href="https://github.com/fatima230m">github.com/fatima230m</a></p>
+
+    <h2>Education</h2>
+    <p>Seattle Pacific University</p>
+    <p>Major: Electrical Engineering</p>
+    <p>Graduation: June 2028</p>
+
+    <h2>Skills</h2>
+    <p>MATLAB, LTspice, Circuit Design, C++, JavaScript, Node.js, HTML, CSS</p>
+
+    <h2>Project</h2>
+    <h3>4th-Order Sallen-Key Bandpass Filter Design</h3>
+    <p>
+      Designed and analyzed a 4th-order active bandpass filter centered at 25 kHz using two cascaded
+      Sallen-Key stages. Verified transfer function behavior in MATLAB and evaluated gain at the desired
+      pass frequency and rejected frequencies using Bode plots and simulation screenshots.
+    </p>
+
+    <img class="project-img" src="Content/P1Main.png" alt="Project Main">
+    <img class="project-img" src="Content/P1Detail1.png" alt="Project Detail 1">
+    <img class="project-img" src="Content/P1Detail2.png" alt="Project Detail 2">
+    <img class="project-img" src="Content/P1Detail3.png" alt="Project Detail 3">
+  </div>
 </body>
 </html>
